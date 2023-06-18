@@ -1,0 +1,23 @@
+[
+    {
+      "nombre": "Juan",
+      "nMat": 80,
+      "nLeng": 90,
+      "nHist": 85,
+      "promedio": 85
+    },
+    {
+      "nombre": "María",
+      "nMat": 75,
+      "nLeng": 85,
+      "nHist": 95,
+      "promedio": 85
+    },
+    {
+      "nombre": "Pedro",
+      "nMat": 90,
+      "nLeng": 80,
+      "nHist": 70,
+      "promedio": 80
+    }
+  ]
